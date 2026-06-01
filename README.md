@@ -53,13 +53,20 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
 </div>
 
 ---
-
 ## 📊 Estatísticas
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reflyxz&theme=tokyonight" />
 
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&amp;theme=tokyonight&amp;hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reflyxz&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reflyxz&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
