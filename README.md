@@ -52,24 +52,32 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
----
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reflyxz&theme=tokyonight" />
+### Linguagens mais utilizadas
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reflyxz&theme=github_dark" 
+  height="180"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reflyxz&theme=github_dark" 
+  height="180"
+/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reflyxz&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reflyxz&theme=tokyonight" />
+### Atividade no GitHub
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR" 
+  height="180"
+/>
 
 </div>
----
 
 ## 🚀 Projetos em destaque
 
