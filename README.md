@@ -58,9 +58,6 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
 
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflyxz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
-
-  <br><br>
 
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&amp;theme=tokyonight&amp;hide_border=true"/>
 
