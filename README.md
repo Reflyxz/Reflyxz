@@ -62,14 +62,9 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
 
   <br><br>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Reflyxz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true"/>
-
-  <br><br>
-
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&amp;theme=tokyonight&amp;hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🚀 Projetos em destaque
