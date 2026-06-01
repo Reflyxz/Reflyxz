@@ -58,15 +58,15 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
 
 <div align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Reflyxz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflyxz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
 
-<br><br>
+  <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reflyxz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Reflyxz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true"/>
 
-<br><br>
+  <br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&theme=tokyonight&hide_border=true)
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&amp;theme=tokyonight&amp;hide_border=true"/>
 
 </div>
 
