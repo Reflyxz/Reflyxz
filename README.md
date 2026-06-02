@@ -52,22 +52,15 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 ---
-
 ## 📊 Estatísticas
 
 <div align="center">
 
-### Linguagens mais utilizadas
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Reflyxz&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reflyxz&theme=github_dark" 
-  height="180"
-/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reflyxz&layout=compact&theme=merko&hide_border=false&langs_count=6"/>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reflyxz&theme=github_dark" 
-  height="180"
-/>
+</div>
 
 <br><br>
 
