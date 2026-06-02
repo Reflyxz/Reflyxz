@@ -52,28 +52,7 @@ Busco minha primeira oportunidade como desenvolvedor, estágio ou júnior, onde 
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 ---
-
-
-### Atividade no GitHub
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR" 
-  height="180"
-/>
-
-</div>
-
----
 <br><br>
-
-### Atividade no GitHub
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Reflyxz&theme=github-dark-blue&hide_border=true&border_radius=10&locale=pt_BR" 
-  height="180"
-/>
-
-</div>
 
 ## 🚀 Projetos em destaque
 
